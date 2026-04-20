@@ -4,7 +4,7 @@ import random
 import time
 
 st.set_page_config(layout="wide")
-st.title("🧠 Heap Learning Lab — Interactive UG Studio")
+st.title("🧠 Heap and Heap Sort")
 
 # ---------------------------------------------------
 # SESSION STATE
